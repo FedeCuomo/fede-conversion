@@ -6,3 +6,4 @@ Conversion functions needed:
 - Hours to minutes
 - Feet to inches
 - Degrees to radiants
+- Miles to meter
